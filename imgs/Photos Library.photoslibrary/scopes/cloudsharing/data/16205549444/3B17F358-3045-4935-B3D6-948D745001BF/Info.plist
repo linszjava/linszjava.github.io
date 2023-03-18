@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cloudOwnerHashedPersonID</key>
+	<string>008354ed62ce72929b023608a15cb725d1a99b74ce80116d529d06b0ced68a69</string>
+	<key>cloudPublicURLEnabled</key>
+	<integer>0</integer>
+	<key>cloudRelationshipState</key>
+	<integer>0</integer>
+	<key>title</key>
+	<string>all</string>
+</dict>
+</plist>
